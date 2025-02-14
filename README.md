@@ -12,4 +12,4 @@ items added to the shopping cart.
 
 <img src="/assets/coupon.png" width="40%" />
 
-<img src="/assets/errormsg.png" width="40%" /># shopping_app
+<img src="/assets/errormsg.png" width="40%" />
